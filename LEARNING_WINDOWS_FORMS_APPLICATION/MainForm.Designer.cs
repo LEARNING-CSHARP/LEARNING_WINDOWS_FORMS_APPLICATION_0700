@@ -42,6 +42,11 @@
 			this.button18 = new System.Windows.Forms.Button();
 			this.button19 = new System.Windows.Forms.Button();
 			this.button20 = new System.Windows.Forms.Button();
+			this.textBox1 = new System.Windows.Forms.TextBox();
+			this.textBox2 = new System.Windows.Forms.TextBox();
+			this.textBox3 = new System.Windows.Forms.TextBox();
+			this.textBox4 = new System.Windows.Forms.TextBox();
+			this.textBox5 = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
 			// 
 			// button1
@@ -284,12 +289,62 @@
 			this.button20.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
 			this.button20.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
 			// 
+			// textBox1
+			// 
+			this.textBox1.Location = new System.Drawing.Point(336, 12);
+			this.textBox1.Name = "textBox1";
+			this.textBox1.Size = new System.Drawing.Size(100, 23);
+			this.textBox1.TabIndex = 20;
+			this.textBox1.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
+			this.textBox1.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
+			// 
+			// textBox2
+			// 
+			this.textBox2.Location = new System.Drawing.Point(336, 41);
+			this.textBox2.Name = "textBox2";
+			this.textBox2.Size = new System.Drawing.Size(100, 23);
+			this.textBox2.TabIndex = 21;
+			this.textBox2.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
+			this.textBox2.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
+			// 
+			// textBox3
+			// 
+			this.textBox3.Location = new System.Drawing.Point(336, 70);
+			this.textBox3.Name = "textBox3";
+			this.textBox3.Size = new System.Drawing.Size(100, 23);
+			this.textBox3.TabIndex = 22;
+			this.textBox3.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
+			this.textBox3.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
+			// 
+			// textBox4
+			// 
+			this.textBox4.Location = new System.Drawing.Point(336, 99);
+			this.textBox4.Name = "textBox4";
+			this.textBox4.Size = new System.Drawing.Size(100, 23);
+			this.textBox4.TabIndex = 23;
+			this.textBox4.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
+			this.textBox4.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
+			// 
+			// textBox5
+			// 
+			this.textBox5.Location = new System.Drawing.Point(336, 128);
+			this.textBox5.Name = "textBox5";
+			this.textBox5.Size = new System.Drawing.Size(100, 23);
+			this.textBox5.TabIndex = 24;
+			this.textBox5.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
+			this.textBox5.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.SteelBlue;
-			this.ClientSize = new System.Drawing.Size(345, 163);
+			this.ClientSize = new System.Drawing.Size(453, 161);
+			this.Controls.Add(this.textBox5);
+			this.Controls.Add(this.textBox4);
+			this.Controls.Add(this.textBox3);
+			this.Controls.Add(this.textBox2);
+			this.Controls.Add(this.textBox1);
 			this.Controls.Add(this.button16);
 			this.Controls.Add(this.button17);
 			this.Controls.Add(this.button18);
@@ -316,6 +371,7 @@
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Main";
 			this.ResumeLayout(false);
+			this.PerformLayout();
 
 		}
 
@@ -341,5 +397,10 @@
 		private System.Windows.Forms.Button button18;
 		private System.Windows.Forms.Button button19;
 		private System.Windows.Forms.Button button20;
+		private System.Windows.Forms.TextBox textBox1;
+		private System.Windows.Forms.TextBox textBox2;
+		private System.Windows.Forms.TextBox textBox3;
+		private System.Windows.Forms.TextBox textBox4;
+		private System.Windows.Forms.TextBox textBox5;
 	}
 }

@@ -51,7 +51,7 @@
 			// 
 			// button1
 			// 
-			this.button1.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button1.BackColor = System.Drawing.Color.LightGray;
 			this.button1.Location = new System.Drawing.Point(12, 12);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(75, 23);
@@ -63,7 +63,7 @@
 			// 
 			// button2
 			// 
-			this.button2.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button2.BackColor = System.Drawing.Color.LightGray;
 			this.button2.Location = new System.Drawing.Point(12, 41);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(75, 23);
@@ -75,7 +75,7 @@
 			// 
 			// button3
 			// 
-			this.button3.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button3.BackColor = System.Drawing.Color.LightGray;
 			this.button3.Location = new System.Drawing.Point(12, 70);
 			this.button3.Name = "button3";
 			this.button3.Size = new System.Drawing.Size(75, 23);
@@ -87,7 +87,7 @@
 			// 
 			// button4
 			// 
-			this.button4.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button4.BackColor = System.Drawing.Color.LightGray;
 			this.button4.Location = new System.Drawing.Point(12, 99);
 			this.button4.Name = "button4";
 			this.button4.Size = new System.Drawing.Size(75, 23);
@@ -99,7 +99,7 @@
 			// 
 			// button5
 			// 
-			this.button5.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button5.BackColor = System.Drawing.Color.LightGray;
 			this.button5.Location = new System.Drawing.Point(12, 128);
 			this.button5.Name = "button5";
 			this.button5.Size = new System.Drawing.Size(75, 23);
@@ -111,7 +111,7 @@
 			// 
 			// button6
 			// 
-			this.button6.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button6.BackColor = System.Drawing.Color.LightGray;
 			this.button6.Location = new System.Drawing.Point(93, 128);
 			this.button6.Name = "button6";
 			this.button6.Size = new System.Drawing.Size(75, 23);
@@ -123,7 +123,7 @@
 			// 
 			// button7
 			// 
-			this.button7.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button7.BackColor = System.Drawing.Color.LightGray;
 			this.button7.Location = new System.Drawing.Point(93, 99);
 			this.button7.Name = "button7";
 			this.button7.Size = new System.Drawing.Size(75, 23);
@@ -135,7 +135,7 @@
 			// 
 			// button8
 			// 
-			this.button8.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button8.BackColor = System.Drawing.Color.LightGray;
 			this.button8.Location = new System.Drawing.Point(93, 70);
 			this.button8.Name = "button8";
 			this.button8.Size = new System.Drawing.Size(75, 23);
@@ -147,7 +147,7 @@
 			// 
 			// button9
 			// 
-			this.button9.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button9.BackColor = System.Drawing.Color.LightGray;
 			this.button9.Location = new System.Drawing.Point(93, 41);
 			this.button9.Name = "button9";
 			this.button9.Size = new System.Drawing.Size(75, 23);
@@ -159,7 +159,7 @@
 			// 
 			// button10
 			// 
-			this.button10.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button10.BackColor = System.Drawing.Color.LightGray;
 			this.button10.Location = new System.Drawing.Point(93, 12);
 			this.button10.Name = "button10";
 			this.button10.Size = new System.Drawing.Size(75, 23);
@@ -171,7 +171,7 @@
 			// 
 			// button11
 			// 
-			this.button11.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button11.BackColor = System.Drawing.Color.LightGray;
 			this.button11.Location = new System.Drawing.Point(174, 128);
 			this.button11.Name = "button11";
 			this.button11.Size = new System.Drawing.Size(75, 23);
@@ -183,7 +183,7 @@
 			// 
 			// button12
 			// 
-			this.button12.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button12.BackColor = System.Drawing.Color.LightGray;
 			this.button12.Location = new System.Drawing.Point(174, 99);
 			this.button12.Name = "button12";
 			this.button12.Size = new System.Drawing.Size(75, 23);
@@ -195,7 +195,7 @@
 			// 
 			// button13
 			// 
-			this.button13.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button13.BackColor = System.Drawing.Color.LightGray;
 			this.button13.Location = new System.Drawing.Point(174, 70);
 			this.button13.Name = "button13";
 			this.button13.Size = new System.Drawing.Size(75, 23);
@@ -207,7 +207,7 @@
 			// 
 			// button14
 			// 
-			this.button14.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button14.BackColor = System.Drawing.Color.LightGray;
 			this.button14.Location = new System.Drawing.Point(174, 41);
 			this.button14.Name = "button14";
 			this.button14.Size = new System.Drawing.Size(75, 23);
@@ -219,7 +219,7 @@
 			// 
 			// button15
 			// 
-			this.button15.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button15.BackColor = System.Drawing.Color.LightGray;
 			this.button15.Location = new System.Drawing.Point(174, 12);
 			this.button15.Name = "button15";
 			this.button15.Size = new System.Drawing.Size(75, 23);
@@ -231,7 +231,7 @@
 			// 
 			// button16
 			// 
-			this.button16.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button16.BackColor = System.Drawing.Color.LightGray;
 			this.button16.Location = new System.Drawing.Point(255, 128);
 			this.button16.Name = "button16";
 			this.button16.Size = new System.Drawing.Size(75, 23);
@@ -243,7 +243,7 @@
 			// 
 			// button17
 			// 
-			this.button17.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button17.BackColor = System.Drawing.Color.LightGray;
 			this.button17.Location = new System.Drawing.Point(255, 99);
 			this.button17.Name = "button17";
 			this.button17.Size = new System.Drawing.Size(75, 23);
@@ -255,7 +255,7 @@
 			// 
 			// button18
 			// 
-			this.button18.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button18.BackColor = System.Drawing.Color.LightGray;
 			this.button18.Location = new System.Drawing.Point(255, 70);
 			this.button18.Name = "button18";
 			this.button18.Size = new System.Drawing.Size(75, 23);
@@ -267,7 +267,7 @@
 			// 
 			// button19
 			// 
-			this.button19.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button19.BackColor = System.Drawing.Color.LightGray;
 			this.button19.Location = new System.Drawing.Point(255, 41);
 			this.button19.Name = "button19";
 			this.button19.Size = new System.Drawing.Size(75, 23);
@@ -279,7 +279,7 @@
 			// 
 			// button20
 			// 
-			this.button20.BackColor = System.Drawing.Color.PapayaWhip;
+			this.button20.BackColor = System.Drawing.Color.LightGray;
 			this.button20.Location = new System.Drawing.Point(255, 12);
 			this.button20.Name = "button20";
 			this.button20.Size = new System.Drawing.Size(75, 23);

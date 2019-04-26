@@ -29,7 +29,7 @@
 			if (currentButton != null)
 			{
 				currentButton.BackColor =
-					System.Drawing.Color.PapayaWhip;
+					System.Drawing.Color.LightGray;
 			}
 		}
 	}

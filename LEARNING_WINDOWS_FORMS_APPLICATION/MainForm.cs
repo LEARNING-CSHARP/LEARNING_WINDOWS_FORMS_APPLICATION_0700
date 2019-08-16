@@ -30,6 +30,9 @@
 			{
 				currentButton.BackColor =
 					System.Drawing.Color.LightGray;
+
+				//currentButton.BackColor =
+				//	System.Drawing.SystemColors.Control;
 			}
 		}
 	}
